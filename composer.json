@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "myPHPExcel\\": "src"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "1.2.0",
+        "tecnickcom/tcpdf": "6.2.17"
+    }
+}
